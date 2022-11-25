@@ -39,4 +39,4 @@ if (età < 18){
 
 // 6) Stampare il prezzo finale in html
 
-    document.getElementById(`prezzo-biglietto`).innerHTML = prezzoFinale;
+    document.getElementById(`prezzo-biglietto`).innerHTML = prezzoFinale + "€";
